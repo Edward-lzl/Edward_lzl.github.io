@@ -17,14 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
+I am a Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) AI for (Earth) Science group, working with Prof. [Lei Bai](http://leibai.site/). Before that, I got my Ph.D. from Beihang University under the supervision of Prof. Shi Zhenwei in Nov. 2025, the head of [LEVIR Laboratory](https://levir.buaa.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in Deep Learning and AI for Earth.
 
+If you are interested in the research intern or [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment) at Shanghai AI Lab, feel free to drop me an [email](mailto:liuzili@pjlab.org.cn). Students with good foundations in the Foundation model, Earth observation modeling, or time series forecasting and low-level vision  are appreciated.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+<li><strong>[Nov. 2025]&nbsp;🎉🎉</strong>Graduated with a Ph.D. from the LEVIR Lab at Beihang University and joined the AI for Science group at Shanghai AI Laboratory, working with Prof. Lei Bai.
+<li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
+<li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">IEEE IGARSS 2025</strong> (Oral, in Brisbane, Australia).</li>
+<li><strong>[Jan. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">CVPR 2025</strong> (Highlight, in Nashville TN).</li>
+<li><strong>[Nov. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
+<li><strong>[Aug. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
 
 # 📝 Publications 
 
