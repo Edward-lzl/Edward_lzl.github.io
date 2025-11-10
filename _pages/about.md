@@ -33,6 +33,7 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 <li><strong>[Nov. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
 <li><strong>[Aug. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/KANI.png' alt="KANI" width="100%"></div></div>
@@ -46,11 +47,10 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Obs_DS_Station.png"><img src='images/Obs_DS_Station.png' alt="Obs_DS_Station" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/Obs_DS_Station.png' alt="HyperDS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10643214"><b>Deriving Accurate Surface Meteorological States at Arbitrary Locations via Observation-Guided Continuous Neural Field Modeling</b></a> \\
- *IEEE TGRS, 2024*  \\
 **<font color="#000000">Zili Liu</font>**, Hao Chen†, Lei Bai, Wenyuan Li, Keyan Chen, Zhengyi Wang, Wanli Ouyang, Zhengxia Zou, Zhenwei Shi† \\
 [<a href="https://arxiv.org/abs/2401.11960">Arxiv</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10643214">TGRS</a>] 
 
