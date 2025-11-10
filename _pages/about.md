@@ -73,7 +73,7 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 
 <a class=PaperTitle href="https://arxiv.org/abs/2401.04125"><b>Deepphysinet: Bridging deep learning and atmospheric physics for accurate and continuous weather modeling</b></a> \\
  *Arxiv, 2024*  \\
-Wenyuan Li, **<font color="#000000">Zili Liu</font>**, Keyan Chen, **<font color="#000000">Hao Chen</font>**, Shunlin Liang, Zhengxia Zou, Zhenwei Shi \\
+Wenyuan Li*, **<font color="#000000">Zili Liu*</font>**, Keyan Chen, Hao Chen, Shunlin Liang, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2401.04125">Arxiv</a>]
 
 </div>
