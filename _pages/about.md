@@ -25,8 +25,6 @@ My research interests lie in Deep Learning and AI for Earth.
 If you are interested in the research intern or [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment) at Shanghai AI Lab, feel free to drop me an [email](mailto:liuzili@pjlab.org.cn). Students with good foundations in the Foundation model, Earth observation modeling, or time series forecasting and low-level vision  are appreciated.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 <li><strong>[Nov. 2025]&nbsp;🎉🎉</strong>Graduated with a Ph.D. from the LEVIR Lab at Beihang University and joined the AI for Science group at Shanghai AI Laboratory, working with Prof. Lei Bai.
 <li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
