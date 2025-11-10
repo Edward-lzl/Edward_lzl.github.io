@@ -57,7 +57,7 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/MambaDS.png"><img src='images/MambaDS.png' alt="MambaDS" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/MambaDS.png' alt="MambaDS.png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10752514"><b>MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling</b></a> \\
