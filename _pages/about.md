@@ -35,6 +35,17 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/KANI.png' alt="KANI" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Topographic Informed Kolmogorov–Arnold Neural Interpolator for Downscaling and Correcting Meteorological Fields from In-Situ Observations]([https://ieeexplore.ieee.org/document/11175207](https://ieeexplore.ieee.org/abstract/document/11030658))
+
+**Zili Liu**, Hao Chen†, Lei Bai, Wenyuan Li, Keyan Chen, Zhengxia Zou, Zhenwei Shi†
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11030658) | [**Arxiv**](https://arxiv.org/abs/2501.14404)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Obs_DS_Station.png"><img src='images/Obs_DS_Station.png' alt="Obs_DS_Station" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,6 +78,8 @@ Wenyuan Li, **<font color="#000000">Zili Liu</font>**, Keyan Chen, **<font color
 
 </div>
 </div>
+
+
 
 # 🎖 Honors and Awards
 - *2024.12* The first-class scholarship of AVIC. 
