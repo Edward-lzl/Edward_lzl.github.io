@@ -65,7 +65,7 @@ Songru Yang, **Zili Liu**, Zhengxia Zou†, Zhenwei Shi
 
 Siwei Tu, Ben Fei, Weidong Yang, Fenghua Ling, Hao Chen, **Zili Liu**, Kun Chen, Hang Fan, Wanli Ouyang, Lei Bai
 
-[**Arxiv**](https://arxiv.org/pdf/2501.11238)
+[**Paper**](https://arxiv.org/pdf/2501.11238)
 </div>
 </div>
 
@@ -84,7 +84,6 @@ Siwei Tu, Ben Fei, Weidong Yang, Fenghua Ling, Hao Chen, **Zili Liu**, Kun Chen,
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10752514"><b>MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling</b></a> \\
- *TGRS, 2024*  \\
 **<font color="#000000">Zili Liu</font>**, Hao Chen†, Lei Bai, Wenyuan Li, Wanli Ouyang, Zhengxia Zou, Zhenwei Shi† \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10752514">TGRS</a>] 
 
