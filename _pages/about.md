@@ -47,6 +47,29 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS2025</div><img src='images/WSSM.png' alt="WSSM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WSSM: Geographic-enhanced hierarchical state-space model for global station weather forecast](https://arxiv.org/pdf/2501.11238)
+
+Songru Yang, **Zili Liu**, Zhengxia Zou†, Zhenwei Shi
+
+[**Arxiv**](https://arxiv.org/pdf/2501.11238)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/DIFF_DS.png' alt="DIFF_DS" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Satellite observations guided diffusion model for accurate meteorological states at arbitrary resolution]([https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_Satellite_Observations_Guided_Diffusion_Model_for_Accurate_Meteorological_States_at_CVPR_2025_paper.pdf](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_Satellite_Observations_Guided_Diffusion_Model_for_Accurate_Meteorological_States_at_CVPR_2025_paper.pdf))
+
+Siwei Tu, Ben Fei, Weidong Yang, Fenghua Ling, Hao Chen, **Zili Liu**, Kun Chen, Hang Fan, Wanli Ouyang, Lei Bai
+
+[**Arxiv**](https://arxiv.org/pdf/2501.11238)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/Obs_DS_Station.png' alt="HyperDS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
