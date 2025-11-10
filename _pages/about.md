@@ -26,7 +26,7 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 
 # 🔥 News
 
-<li><strong>[Nov. 2025]&nbsp;🎉🎉</strong>Graduated with a Ph.D. from the LEVIR Lab at Beihang University and joined the AI for Science group at Shanghai AI Laboratory, working with Prof. Lei Bai.
+<li><strong>[Nov. 2025]&nbsp;🎉🎉</strong>Graduated with a Ph.D. from the LEVIR Lab at Beihang University and joined the AI for Science group at Shanghai AI Laboratory, working with Prof. Lei Bai.</li>
 <li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
 <li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">IEEE IGARSS 2025</strong> (Oral, in Brisbane, Australia).</li>
 <li><strong>[Jan. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">CVPR 2025</strong> (Highlight, in Nashville TN).</li>
