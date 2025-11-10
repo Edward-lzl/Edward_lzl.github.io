@@ -86,7 +86,7 @@ Wenyuan Li, **<font color="#000000">Zili Liu</font>**, Keyan Chen, **<font color
 
 # 📖 Educations
 - *2025.11 - (now)*, Researcher, Shanghai AI Laboratory
-- *2021.06 - 2025.11*, Ph.D, Beihang University. 
+- *2021.09 - 2025.11*, Ph.D, Beihang University. 
 
 
 # 💻 Internships
