@@ -35,19 +35,38 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Obs_DS_Station.png"><img src='images/Obs_DS_Station.png' alt="Obs_DS_Station" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10643214"><b>Deriving Accurate Surface Meteorological States at Arbitrary Locations via Observation-Guided Continuous Neural Field Modeling</b></a> \\
+ *IEEE TGRS, 2024*  \\
+**<font color="#000000">Zili Liu</font>**, Hao Chen†, Lei Bai, Wenyuan Li, Keyan Chen, Zhengyi Wang, Wanli Ouyang, Zhengxia Zou, Zhenwei Shi† \\
+[<a href="https://arxiv.org/abs/2401.11960">Arxiv</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10643214">TGRS</a>] 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/MambaDS.png"><img src='images/MambaDS.png' alt="MambaDS" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10752514"><b>MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling</b></a> \\
+ *TGRS, 2024*  \\
+**<font color="#000000">Zili Liu</font>**, Hao Chen†, Lei Bai, Wenyuan Li, Wanli Ouyang, Zhengxia Zou, Zhenwei Shi† \\
+[<a href="https://ieeexplore.ieee.org/abstract/document/10752514">TGRS</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Deepphysinet.png"><img src='images/Deepphysinet.png' alt="Deepphysinet" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2401.04125"><b>Deepphysinet: Bridging deep learning and atmospheric physics for accurate and continuous weather modeling</b></a> \\
+ *Arxiv, 2024*  \\
+Wenyuan Li, **<font color="#000000">Zili Liu</font>**, Keyan Chen, **<font color="#000000">Hao Chen</font>**, Shunlin Liang, Zhengxia Zou, Zhenwei Shi \\
+[<a href="https://arxiv.org/abs/2401.04125">Arxiv</a>]
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
