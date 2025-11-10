@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am a Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/) AI for (Earth) Science group, working with Prof. [Lei Bai](http://leibai.site/). Before that, I got my Ph.D. from Beihang University under the supervision of Prof. Shi Zhenwei in Nov. 2025, the head of [LEVIR Laboratory](https://levir.buaa.edu.cn/).
+I am a Researcher at AI for (Earth) Science group, [Shanghai AI Laboratory](https://www.shlab.org.cn/), working with Prof. [Lei Bai](http://leibai.site/). Before that, I got my Ph.D. from Beihang University under the supervision of Prof. Shi Zhenwei in Nov. 2025, the head of [LEVIR Laboratory](https://levir.buaa.edu.cn/).
 
 My research interests lie in Deep Learning and AI for Earth.
 
