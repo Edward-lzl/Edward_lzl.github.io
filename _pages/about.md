@@ -22,7 +22,7 @@ I am a Researcher at AI for (Earth) Science group, [Shanghai AI Laboratory](http
 
 My research interests lie in Deep Learning and AI for Earth.
 
-If you are interested in the research intern or [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment) at Shanghai AI Lab, feel free to drop me an [email](mailto:liuzili@pjlab.org.cn). Students with good foundations in the Foundation model, Earth observation modeling, or time series forecasting and low-level vision  are appreciated.
+If you are interested in the research intern or [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment) at Shanghai AI Lab, feel free to drop me an [email](mailto:liuzili@pjlab.org.cn). Students with good foundations in the foundation model, earth observation modeling, time series forecasting, and low-level vision  are appreciated.
 
 # 🔥 News
 
