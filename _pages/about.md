@@ -30,8 +30,8 @@ If you are interested in the research intern or [Joint Training Ph.D. Project](h
 <li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
 <li><strong>[Jun. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">IEEE IGARSS 2025</strong> (Oral, in Brisbane, Australia).</li>
 <li><strong>[Jan. 2025]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">CVPR 2025</strong> (Highlight, in Nashville TN).</li>
-<li><strong>[Nov. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
-<li><strong>[Aug. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2025.</li>
+<li><strong>[Nov. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2024.</li>
+<li><strong>[Aug. 2024]&nbsp;🎉🎉</strong>One paper is accepted by <strong style="color: red;">TGRS</strong> (<strong>IF=8.6, Q1</strong>) in 2024.</li>
 
 
 # 📝 Publications 
